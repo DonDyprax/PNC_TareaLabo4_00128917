@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+
+.submit-button {
+	text-align: center;
+}
+
+.form-wrapper {
+  border-radius: 25px;
+  background: #bdc9de;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
